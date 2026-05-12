@@ -1,5 +1,1 @@
-- Hi, I'm Lanka Sai Sampath
-
-- Software Developer.
-
-- Competitive Gamer.
+- Backend-focused engineer building scalable systems and production-ready applications.
