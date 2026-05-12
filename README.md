@@ -4,12 +4,12 @@ I’m a backend-focused full stack engineer interested in building scalable syst
 
 Most of my work focuses on:
 
-Distributed systems
-Async processing
-Queue architectures
-Backend scalability
-API reliability
-System design
-Performance optimization
+- Distributed systems
+- Async processing
+- Queue architectures
+- Backend scalability
+- API reliability
+- System design
+- Performance optimization
 
 I enjoy understanding how systems behave under load, how failures happen, and how reliable recovery workflows can be designed.
