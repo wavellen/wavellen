@@ -1,6 +1,6 @@
 # Hey, I’m Sampath 👋
 
-I’m a backend focused full stack engineer interested in building scalable systems, distributed workflows, async processing architectures, and production-ready backend applications.
+I’m a backend focused full stack engineer interested in building scalable systems, distributed workflows, async processing architectures, and production ready backend applications.
 
 Most of my work focuses on:
 
@@ -23,7 +23,7 @@ I enjoy understanding how systems behave under load, how failures happen, and ho
 - REST APIs
 
 ### Frontend
-- React
+- React.js
 - Next.js
 - Vue.js
 ### Databases & Infrastructure
