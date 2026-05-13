@@ -26,6 +26,7 @@ I enjoy understanding how systems behave under load, how failures happen, and ho
 - React.js
 - Next.js
 - Vue.js
+
 ### Databases & Infrastructure
 - PostgreSQL
 - MongoDB
