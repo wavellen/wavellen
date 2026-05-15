@@ -14,15 +14,6 @@
 
 I'm a **backend-focused full stack engineer** who thinks deeply about how systems behave under load — how they fail, how they recover, and how to design them so failures don't matter. My work lives at the intersection of distributed systems, async processing, and production-grade reliability.
 
-```
-const sampath = {
-  focus:      "backend systems & distributed architecture",
-  interests:  ["queue architectures", "fault tolerance", "async workflows"],
-  philosophy: "design for failure, optimize for recovery",
-  currentlyThinking: "how does this break at 10x load?",
-};
-```
-
 ---
 
 ## 〉 Core Focus Areas
@@ -78,16 +69,6 @@ const sampath = {
 ![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-302b63?style=for-the-badge&logoColor=white)
 ![Fault Tolerance](https://img.shields.io/badge/Fault_Tolerance-302b63?style=for-the-badge&logoColor=white)
 ![API Security](https://img.shields.io/badge/API_Security-302b63?style=for-the-badge&logoColor=white)
-
----
-
-## 〉 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saisampathlanka&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
-
-</div>
 
 ---
 
