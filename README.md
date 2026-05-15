@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sampath&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Systems%20Thinker%20%E2%80%A2%20Reliability%20Obsessive&descAlignY=60&descSize=16&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sampath+Lanka&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Systems%20Thinker%20%E2%80%A2%20Reliability%20Obsessive&descAlignY=60&descSize=16&descColor=a78bfa" />
 
 <br/>
 
@@ -8,13 +8,11 @@
 
 </div>
 
----
 
 ## 〉 About Me
 
-I'm a **backend-focused full stack engineer** who thinks deeply about how systems behave under load — how they fail, how they recover, and how to design them so failures don't matter. My work lives at the intersection of distributed systems, async processing, and production-grade reliability.
+I'm a **backend focused full stack engineer** who thinks deeply about how systems behave under load; how they fail, how they recover, and how to design them so failures don't matter. My work lives at the intersection of distributed systems, async processing, and production grade reliability.
 
----
 
 ## 〉 Core Focus Areas
 
@@ -41,7 +39,6 @@ I'm a **backend-focused full stack engineer** who thinks deeply about how system
 </tr>
 </table>
 
----
 
 ## 〉 Tech Stack
 
@@ -70,19 +67,17 @@ I'm a **backend-focused full stack engineer** who thinks deeply about how system
 ![Fault Tolerance](https://img.shields.io/badge/Fault_Tolerance-302b63?style=for-the-badge&logoColor=white)
 ![API Security](https://img.shields.io/badge/API_Security-302b63?style=for-the-badge&logoColor=white)
 
----
 
 ## 〉 What I Think About
 
 > *"The interesting problems aren't in making things work. They're in making things work when something else stops working."*
 
 I spend a lot of time thinking about:
-- **How load changes behavior** — systems that look fine at 100 RPS reveal their true character at 10,000
-- **Where queues break** — backpressure, poison messages, consumer lag, and what recovery looks like
-- **The shape of failures** — cascading vs. isolated, silent vs. loud, recoverable vs. terminal
-- **Reliability as a design primitive** — not bolted on after the fact, but baked in from the first schema decision
+- **How load changes behavior**: systems that look fine at 100 RPS reveal their true character at 10,000
+- **Where queues break**: backpressure, poison messages, consumer lag, and what recovery looks like
+- **The shape of failures**: cascading vs. isolated, silent vs. loud, recoverable vs. terminal
+- **Reliability as a design primitive**: not bolted on after the fact, but baked in from the first schema decision
 
----
 
 <div align="center">
 
