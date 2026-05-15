@@ -10,6 +10,48 @@
 
 ---
 
+## 〉 About Me
+
+I'm a **backend-focused full stack engineer** who thinks deeply about how systems behave under load — how they fail, how they recover, and how to design them so failures don't matter. My work lives at the intersection of distributed systems, async processing, and production-grade reliability.
+
+```
+const sampath = {
+  focus:      "backend systems & distributed architecture",
+  interests:  ["queue architectures", "fault tolerance", "async workflows"],
+  philosophy: "design for failure, optimize for recovery",
+  currentlyThinking: "how does this break at 10x load?",
+};
+```
+
+---
+
+## 〉 Core Focus Areas
+
+<table>
+<tr>
+<td width="50%">
+
+**⚙️ Systems Architecture**
+- Distributed Systems Design
+- Async Processing Pipelines
+- Queue & Event-Driven Architectures
+- Fault Tolerance & Recovery
+
+</td>
+<td width="50%">
+
+**📐 Engineering Excellence**
+- Backend Scalability Patterns
+- API Reliability & Design
+- Performance Optimization
+- Rate Limiting & Caching Strategies
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 〉 Tech Stack
 
 ### Backend
