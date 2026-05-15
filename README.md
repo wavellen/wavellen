@@ -1,43 +1,11 @@
-# Hey, I’m Sampath 👋
+<div align="center">
 
-I’m a backend focused full stack engineer interested in building scalable systems, distributed workflows, async processing architectures, and production ready backend applications.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sampath&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Systems%20Thinker%20%E2%80%A2%20Reliability%20Obsessive&descAlignY=60&descSize=16&descColor=a78bfa" />
 
-Most of my work focuses on:
+<br/>
 
-- Distributed systems
-- Async processing
-- Queue architectures
-- Backend scalability
-- API reliability
-- System design
-- Performance optimization
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+systems+that+scale+under+pressure;Designing+resilient+async+architectures;Making+distributed+workflows+reliable;Obsessing+over+failure+modes+%26+recovery)](https://git.io/typing-svg)
 
-I enjoy understanding how systems behave under load, how failures happen, and how reliable recovery workflows can be designed.
+</div>
 
-## Tech Stack
-### Backend
-- Node.js
-- Fastify
-- Express.js
-- FastAPI
-- REST APIs
-
-### Frontend
-- React.js
-- Next.js
-- Vue.js
-
-### Databases & Infrastructure
-- PostgreSQL
-- MongoDB
-- Redis
-- Docker
-
-### Engineering Concepts
-- Distributed Systems
-- Async Processing
-- Queue Architectures
-- Rate Limiting
-- Fault Tolerance
-- Caching
-- API Security
+---
