@@ -9,3 +9,32 @@
 </div>
 
 ---
+
+## 〉 Tech Stack
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+### Databases & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+### Engineering Concepts
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-302b63?style=for-the-badge&logoColor=white)
+![Async Processing](https://img.shields.io/badge/Async_Processing-302b63?style=for-the-badge&logoColor=white)
+![Queue Architectures](https://img.shields.io/badge/Queue_Architectures-302b63?style=for-the-badge&logoColor=white)
+![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-302b63?style=for-the-badge&logoColor=white)
+![Fault Tolerance](https://img.shields.io/badge/Fault_Tolerance-302b63?style=for-the-badge&logoColor=white)
+![API Security](https://img.shields.io/badge/API_Security-302b63?style=for-the-badge&logoColor=white)
+
+---
