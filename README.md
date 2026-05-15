@@ -80,3 +80,33 @@ const sampath = {
 ![API Security](https://img.shields.io/badge/API_Security-302b63?style=for-the-badge&logoColor=white)
 
 ---
+
+## 〉 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saisampathlanka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisampathlanka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saisampathlanka&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
+
+</div>
+
+---
+
+## 〉 What I Think About
+
+> *"The interesting problems aren't in making things work. They're in making things work when something else stops working."*
+
+I spend a lot of time thinking about:
+- **How load changes behavior** — systems that look fine at 100 RPS reveal their true character at 10,000
+- **Where queues break** — backpressure, poison messages, consumer lag, and what recovery looks like
+- **The shape of failures** — cascading vs. isolated, silent vs. loud, recoverable vs. terminal
+- **Reliability as a design primitive** — not bolted on after the fact, but baked in from the first schema decision
+
+---
